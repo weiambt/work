@@ -1,0 +1,55 @@
+package algobi;
+
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.ReentrantLock;
+
+/*
+    2024/7/31 23:48
+    @author ZW
+    Project Name:aJavaOJ
+     
+*/
+public class MyBlockingQueue {
+
+    Queue<Integer> q =  new LinkedList<>();
+    int capacity;
+    ReentrantLock lock = new ReentrantLock();
+    Condition notFull = lock.newCondition();
+    Condition notEmpty = lock.newCondition();
+
+    public MyBlockingQueue(int capacity) {
+        this.capacity = capacity;
+    }
+
+    void put(int val) throws InterruptedException {
+        try {
+            lock.lockInterruptibly();
+            while(size()==capacity)
+                notFull.await();
+            q.add(val);
+            notEmpty.signalAll();
+
+        }finally {
+            lock.unlock();
+        }
+    }
+
+    int take() throws InterruptedException{
+        try {
+            lock.lockInterruptibly();
+            while (size()==0)
+                notEmpty.await();
+            int res = q.poll();
+            notFull.signalAll();
+            return res;
+        }finally {
+            lock.unlock();
+        }
+    }
+
+    int size() {
+        return q.size();
+    }
+}
