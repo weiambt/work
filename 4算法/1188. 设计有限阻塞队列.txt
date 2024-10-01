@@ -18,11 +18,11 @@ public class MyBlockingQueue {
     ReentrantLock lock = new ReentrantLock();
     Condition notFull = lock.newCondition();
     Condition notEmpty = lock.newCondition();
-
+    
     public MyBlockingQueue(int capacity) {
         this.capacity = capacity;
     }
-
+    
     void put(int val) throws InterruptedException {
         try {
             lock.lockInterruptibly();
@@ -30,12 +30,12 @@ public class MyBlockingQueue {
                 notFull.await();
             q.add(val);
             notEmpty.signalAll();
-
+    
         }finally {
             lock.unlock();
         }
     }
-
+    
     int take() throws InterruptedException{
         try {
             lock.lockInterruptibly();
@@ -48,7 +48,7 @@ public class MyBlockingQueue {
             lock.unlock();
         }
     }
-
+    
     int size() {
         return q.size();
     }
