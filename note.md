@@ -1,19 +1,50 @@
 ---
 {}
 ---
-- 实习25届实习秋招岗位汇总平台： [https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3](https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3 "https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3")老鱼简历实习招聘咨询：[https://www.laoyujianli.com/hc](https://www.laoyujianli.com/hc "https://www.laoyujianli.com/hc")国央企实习汇总.pdf公司名单：[https://www.nowcoder.com/discuss/499582997692166144](https://www.nowcoder.com/discuss/499582997692166144 "https://www.nowcoder.com/discuss/499582997692166144")
+- 实习25届实习秋招岗位汇总平台： [https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3](https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3 "https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3")
+
+    老鱼简历实习招聘咨询：[https://www.laoyujianli.com/hc](https://www.laoyujianli.com/hc "https://www.laoyujianli.com/hc")
+
+    国央企实习汇总.pdf公司名单：[https://www.nowcoder.com/discuss/499582997692166144](https://www.nowcoder.com/discuss/499582997692166144 "https://www.nowcoder.com/discuss/499582997692166144")
+
 - 秋招
     - 25届SP专场：[https://www.nowcoder.com/jobs/activity/v2/special-activity/index/2025SPzc?channel=qzsy](https://www.nowcoder.com/jobs/activity/v2/special-activity/index/2025SPzc?channel=qzsy "https://www.nowcoder.com/jobs/activity/v2/special-activity/index/2025SPzc?channel=qzsy")
-- 25届硕博专场：[https://www.nowcoder.com/jobs/activity/v2/special-activity/index/sbzc?pageSource=5011](https://www.nowcoder.com/jobs/activity/v2/special-activity/index/sbzc?pageSource=5011 "https://www.nowcoder.com/jobs/activity/v2/special-activity/index/sbzc?pageSource=5011")
-- 八股小林coding：[https://www.xiaolincoding.com](https://www.xiaolincoding.com "https://www.xiaolincoding.com")影子笔记：[https://ik3te1knhq.feishu.cn/wiki/CtXBwQ0qHioWP4k5WqNcdm5tn3d](https://ik3te1knhq.feishu.cn/wiki/CtXBwQ0qHioWP4k5WqNcdm5tn3d "https://ik3te1knhq.feishu.cn/wiki/CtXBwQ0qHioWP4k5WqNcdm5tn3d")图灵课堂八股：[https://www.yuque.com/tulingzhouyu/db22bv/iv84gg8i0qassv7l](https://www.yuque.com/tulingzhouyu/db22bv/iv84gg8i0qassv7l "https://www.yuque.com/tulingzhouyu/db22bv/iv84gg8i0qassv7l")Javaguide：[https://javaguide.cn/database/mysql/mysql-questions-01.html](https://javaguide.cn/database/mysql/mysql-questions-01.html "https://javaguide.cn/database/mysql/mysql-questions-01.html")牛客八股：[https://www.nowcoder.com/issue/tutorial?tutorialId=94&uuid=36e2c89b4b4641f8b3c566758fdc879d](https://www.nowcoder.com/issue/tutorial?tutorialId=94&uuid=36e2c89b4b4641f8b3c566758fdc879d "https://www.nowcoder.com/issue/tutorial?tutorialId=94&uuid=36e2c89b4b4641f8b3c566758fdc879d")
-    > 视频[https://www.bilibili.com/video/BV1ihVteYEEr/?spm\_id\_from=333.1007.tianma.1-1-1.click&vd\_source=9df13446957cfa1b1efd5650c5e3a393](https://www.bilibili.com/video/BV1ihVteYEEr/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=9df13446957cfa1b1efd5650c5e3a393 "https://www.bilibili.com/video/BV1ihVteYEEr/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=9df13446957cfa1b1efd5650c5e3a393")
+    - 25届硕博专场：[https://www.nowcoder.com/jobs/activity/v2/special-activity/index/sbzc?pageSource=5011](https://www.nowcoder.com/jobs/activity/v2/special-activity/index/sbzc?pageSource=5011 "https://www.nowcoder.com/jobs/activity/v2/special-activity/index/sbzc?pageSource=5011")
     
+- 八股
+
+    小林coding：[https://www.xiaolincoding.com](https://www.xiaolincoding.com "https://www.xiaolincoding.com")
+
+    影子笔记：[https://ik3te1knhq.feishu.cn/wiki/CtXBwQ0qHioWP4k5WqNcdm5tn3d](https://ik3te1knhq.feishu.cn/wiki/CtXBwQ0qHioWP4k5WqNcdm5tn3d "https://ik3te1knhq.feishu.cn/wiki/CtXBwQ0qHioWP4k5WqNcdm5tn3d")
+
+    图灵课堂八股：[https://www.yuque.com/tulingzhouyu/db22bv/iv84gg8i0qassv7l](https://www.yuque.com/tulingzhouyu/db22bv/iv84gg8i0qassv7l "https://www.yuque.com/tulingzhouyu/db22bv/iv84gg8i0qassv7l")
+
+    Javaguide：[https://javaguide.cn/database/mysql/mysql-questions-01.html](https://javaguide.cn/database/mysql/mysql-questions-01.html "https://javaguide.cn/database/mysql/mysql-questions-01.html")
+
+    牛客八股：[https://www.nowcoder.com/issue/tutorialtutorialId=94&uuid=36e2c89b4b4641f8b3c566758fdc879d](https://www.nowcoder.com/issue/tutorial?tutorialId=94&uuid=36e2c89b4b4641f8b3c566758fdc879d "https://www.nowcoder.com/issue/tutorial?tutorialId=94&uuid=36e2c89b4b4641f8b3c566758fdc879d")
+
+    > 视频[https://www.bilibili.com/video/BV1ihVteYEEr/?spm\_id\_from=333.1007.tianma.1-1-1.click&vd\_source=9df13446957cfa1b1efd5650c5e3a393](https://www.bilibili.com/video/BV1ihVteYEEr/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=9df13446957cfa1b1efd5650c5e3a393 "https://www.bilibili.com/video/BV1ihVteYEEr/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=9df13446957cfa1b1efd5650c5e3a393")
+
     牛客八股刷题：[https://www.nowcoder.com/exam/intelligent?questionJobId=10&tagId=21001](https://www.nowcoder.com/exam/intelligent?questionJobId=10&tagId=21001 "https://www.nowcoder.com/exam/intelligent?questionJobId=10&tagId=21001")
-- 算法代码随想录：[https://programmercarl.com](https://programmercarl.com "https://programmercarl.com")codetop：[https://codetop.cc/home（能够看到公司的lc题、每个lc题出现的频率）](https://codetop.cc/home%EF%BC%88%E8%83%BD%E5%A4%9F%E7%9C%8B%E5%88%B0%E5%85%AC%E5%8F%B8%E7%9A%84lc%E9%A2%98%E3%80%81%E6%AF%8F%E4%B8%AAlc%E9%A2%98%E5%87%BA%E7%8E%B0%E7%9A%84%E9%A2%91%E7%8E%87%EF%BC%89 "https://codetop.cc/home（能够看到公司的lc题、每个lc题出现的频率）")
-- 设计模式kamacoder：[https://www.kamacoder.com/designpattern.php（在线编程）](https://www.kamacoder.com/designpattern.php%EF%BC%88%E5%9C%A8%E7%BA%BF%E7%BC%96%E7%A8%8B%EF%BC%89 "https://www.kamacoder.com/designpattern.php（在线编程）")笔记：[https://ik3te1knhq.feishu.cn/wiki/ITIPwBMAWi5PsXkp0c1cwJMrn2b](https://ik3te1knhq.feishu.cn/wiki/ITIPwBMAWi5PsXkp0c1cwJMrn2b "https://ik3te1knhq.feishu.cn/wiki/ITIPwBMAWi5PsXkp0c1cwJMrn2b")
+
+- 算法
+
+    代码随想录：[https://programmercarl.com](https://programmercarl.com "https://programmercarl.com")
+
+    codetop：[https://codetop.cc/home（能够看到公司的lc题、每个lc题出现的频率）](https://codetop.cc/home%EF%BC%88%E8%83%BD%E5%A4%9F%E7%9C%8B%E5%88%B0%E5%85%AC%E5%8F%B8%E7%9A%84lc%E9%A2%98%E3%80%81%E6%AF%8F%E4%B8%AAlc%E9%A2%98%E5%87%BA%E7%8E%B0%E7%9A%84%E9%A2%91%E7%8E%87%EF%BC%89 "https://codetop.cc/home（能够看到公司的lc题、每个lc题出现的频率）")
+
+- 设计模式
+
+    kamacoder：[https://www.kamacoder.com/designpattern.php（在线编程）](https://www.kamacoder.com/designpattern.php%EF%BC%88%E5%9C%A8%E7%BA%BF%E7%BC%96%E7%A8%8B%EF%BC%89 "https://www.kamacoder.com/designpattern.php（在线编程）")
+
+    笔记：[https://ik3te1knhq.feishu.cn/wiki/ITIPwBMAWi5PsXkp0c1cwJMrn2b](https://ik3te1knhq.feishu.cn/wiki/ITIPwBMAWi5PsXkp0c1cwJMrn2b "https://ik3te1knhq.feishu.cn/wiki/ITIPwBMAWi5PsXkp0c1cwJMrn2b")
+
 - SQL面试题：[https://ik3te1knhq.feishu.cn/wiki/WuNQwtRsxiRXUukZGCBcVPaEn6c](https://ik3te1knhq.feishu.cn/wiki/WuNQwtRsxiRXUukZGCBcVPaEn6c "https://ik3te1knhq.feishu.cn/wiki/WuNQwtRsxiRXUukZGCBcVPaEn6c")
+
 - 网络[https://ik3te1knhq.feishu.cn/wiki/DpPhwpksVivEwmkXn3GcfzvmnVe](https://ik3te1knhq.feishu.cn/wiki/DpPhwpksVivEwmkXn3GcfzvmnVe "https://ik3te1knhq.feishu.cn/wiki/DpPhwpksVivEwmkXn3GcfzvmnVe")
+
 - linux命令[https://ik3te1knhq.feishu.cn/wiki/UppDwInDriKkvGka0aQc00D1nce](https://ik3te1knhq.feishu.cn/wiki/UppDwInDriKkvGka0aQc00D1nce "https://ik3te1knhq.feishu.cn/wiki/UppDwInDriKkvGka0aQc00D1nce")
+
 - 项目鱼皮知识星球300
     - 手写RPC
     - OJ
