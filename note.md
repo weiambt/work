@@ -1,7 +1,9 @@
 ---
 {}
 ---
-- 实习25届实习秋招岗位汇总平台： [https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3](https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3 "https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3")
+- 实习
+
+    25届实习秋招岗位汇总平台： [https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3](https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3 "https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3")
 
     老鱼简历实习招聘咨询：[https://www.laoyujianli.com/hc](https://www.laoyujianli.com/hc "https://www.laoyujianli.com/hc")
 
@@ -111,6 +113,10 @@
 ### 阿里子公司
 
 [https://talent.alibaba.com/?lang=zh](https://talent.alibaba.com/?lang=zh "https://talent.alibaba.com/?lang=zh")
+
+
+
+
 
 ![image-20240625215019612](images/image-20240625215019612.png)![image-20240625215027266](images/image-20240625215027266.png)
 
