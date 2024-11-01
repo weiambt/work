@@ -1,6 +1,5 @@
----
-{}
----
+
+
 - 实习
 
     25届实习秋招岗位汇总平台： [https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3](https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3 "https://flowus.cn/share/f0802354-3ea7-44c1-a243-fc53c651b7a3")
@@ -114,11 +113,9 @@
 
 [https://talent.alibaba.com/?lang=zh](https://talent.alibaba.com/?lang=zh "https://talent.alibaba.com/?lang=zh")
 
+![image-20240625215019612](images/image-20240625215019612.png)
 
-
-
-
-![image-20240625215019612](images/image-20240625215019612.png)![image-20240625215027266](images/image-20240625215027266.png)
+![image-20240625215027266](images/image-20240625215027266.png)
 
 ## 知识点
 
